@@ -1,0 +1,41 @@
+# Blood Omen: Legacy of Kain 한글 패치 서드파티 고지
+
+이 패치에 포함되거나 이 패치가 파생된 제3자 저작물 목록입니다.
+
+---
+
+## 1. 폰트: 마루 부리 (MaruBuri) — 배포물에 포함
+
+> 이 패치의 자막 글꼴은 네이버 마루 부리(MaruBuri)를 기반으로 만들었습니다.
+
+### 서브셋
+
+- 이 프로젝트는 마루부리 폰트의 서브셋을 사용하고 있습니다.
+- OFL 3 조에 따라 이름을 **`BO-LOK-KR Serif`** 계열로 바꿉니다 
+— 원본 출처는 아래처럼 밝히며, 이는 OFL 4 조가 허용하는 "공헌 인정" 표기입니다.
+
+### 폰트 정보
+
+- URL: <https://hangeul.naver.com/font>
+- 저작권: © NAVER Corp. / © NAVER Cultural Foundation Corp.
+- 제작: AG Typography Institute (안그라픽스 타이포그라피연구소)
+- 라이선스: **SIL Open Font License 1.1** — 전문은 `FONT-LICENSE.txt` (동봉 필수)
+- 라이선스 고지: <https://help.naver.com/service/30016/contents/18088>
+- 라이선스 전문: `FONT-LICENSE.txt` 참조
+
+---
+
+## 2. 영문 자막 전사본, 자막 타이밍 데이터 — 파생
+
+한국어 번역의 원문입니다. 배포물에 영문 텍스트를 포함하지 않지만,
+번역이 이 전사본에서 나왔으므로 파생 관계가 있습니다.
+
+- 출처: Verok
+- URL: https://archive.org/details/kaingl_1.74
+- 경로: KainGL 배포판의 `SUBTITLES.ENG`
+
+---
+
+## 한글 패치 배포
+
+- URL: <https://devwock.github.io/lok-blood-omen-korean/>
